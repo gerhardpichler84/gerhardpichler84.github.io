@@ -7,3 +7,9 @@ Stranger Things ist eine US-amerikanische Science-Fiction-Mysteryserie, die am 1
 * Spielt in den 80er Jahre
 * Tolle Schauspieler
 * Sehr viele Anspielungen auf die 80er Jahre
+
+Sheriff Hopper:
+> That's it. 
+> Three rules. 
+> I call them the 'Don't be stupid'-rules. 
+> Because we're not stupid, alright?
